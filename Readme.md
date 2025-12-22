@@ -1,4 +1,3 @@
-![IMG_6762](https://github.com/user-attachments/assets/997040dc-2837-4b43-9de8-ae6c713b6b31)
 
 ### 🔧 スタック
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
